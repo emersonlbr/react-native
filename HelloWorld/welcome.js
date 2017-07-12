@@ -9,6 +9,11 @@ var Welcome = React.createClass(
       <Text>
        This is from the welcome.js file
       </Text>
+      
+      <Text>
+         This is another paragraph
+      </Text>
+      
       </View>
     }
   }
